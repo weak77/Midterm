@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+td{
+    border-bottom:1px solid burlywood;
+}
+table{
+    width:60%;
+    margin:auto;
+    font-size:1.5em;
+}
